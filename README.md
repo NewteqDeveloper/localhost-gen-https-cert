@@ -1,3 +1,6 @@
+# Migrated
+My fork has moved: https://codeberg.org/newteq/sample-localhost-gen-https-cert
+
 # Generate a Trusted SSL Certificate
 
 This repository contains a script that will generate a trusted ssl certificate which can be used for local software development.
