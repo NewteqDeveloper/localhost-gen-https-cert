@@ -1,5 +1,13 @@
-# Migrated
-My fork has moved: https://codeberg.org/newteq/sample-localhost-gen-https-cert
+# Original Author
+This was originally forked on this GitHub repo: [https://github.com/RubenVermeulen/generate-trusted-ssl-certificate](https://github.com/RubenVermeulen/generate-trusted-ssl-certificate)
+
+## No license from original
+The original author did not provide a license for this work.
+
+Based on what this does, I added the GNU AGPL3 license for everyone to use.
+
+## Disclaimer ⚠️
+Should the original author wish for me to remove this, please contact me on [github@newteq.co.za](mailto:github@newteq.co.za)
 
 # Generate a Trusted SSL Certificate
 
